@@ -1,0 +1,122 @@
+body{
+    background-color:lime;
+}
+#kontener{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+    opacity: 0.9;
+}
+.rectangle{
+    margin: 30px;
+    background-color: grey;
+    float: left;
+    width: 90%;
+    height: 12%;
+}
+#logo{
+    float: left;
+   
+    width: 30%;
+    height: 50%;
+    margin: 15px;
+    margin-top: 7px;
+    font-family: 'Baloo Chettan';
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+}
+#zegar{
+        float: right;
+        width: 20%;
+        height: 65%;
+        margin: 15px;
+        margin-top: 20px;
+        margin-left: 30%;
+      
+    
+}
+#box{
+    
+    height: 50%;
+    width: 90%;
+    float: left;
+    margin: 30px;
+    margin-top: -20px;
+}
+.square{
+    float: left;
+    background-color: #05FF83;
+    width: 40%;
+    height: 80%;
+    margin: 35px;
+    opacity: 0.9;
+}
+#title{
+    float: left;
+    width: 67%;
+    height: 60%;
+    background-color: #A6FFA5;
+    margin: 15px;
+    margin-left: 44px;
+    font-size: 180px;
+    text-align: center;
+    color: white;
+}
+#title:hover{
+    background-color: #636e72;
+    opacity: 0.5;
+}
+.fa-jedi-order:hover{
+    color: #05FF83;
+    opacity: 1;
+}
+.mini{
+    height: 15%;
+    width: 15%;
+    background-color: #badc58;
+    float: left;
+    margin-left: 42px;
+    font-size: 42px;
+    text-align: center;
+    color: #ffffff;
+}
+.mini:hover{
+    background-color: #FF34E4;
+    opacity: 0.2;
+}
+.box1{
+    background: rgba(0, 0, 0, 0.9);
+    float: left;
+    width: 27%;
+    height: 27%;
+    margin: 30px;
+    margin-top: 17px;
+    opacity: 0.9;
+    margin-left: 40px;
+}
+.box2{
+    
+    float: left;
+    width: 27%;
+    height: 27%;
+    margin: 30px;
+    margin-top: -10px;
+    background: rgba(0, 0, 0, 0.9);
+    opacity: 0.8;
+    margin-left: 40px;
+}
+#tresc{
+    clear: both;
+    float: left;
+    width: 78%;
+    height: 17%;
+    margin-top: -15px;
+    margin-left: 28px;
+    background-color: #A6FFA5;
+    font-family: 'Baloo Chettan';
+    text-align: center;
+    color: white;
+    font-size: 28px;
+}
